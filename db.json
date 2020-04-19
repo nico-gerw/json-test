@@ -1,4 +1,6 @@
 {
-    "title": "T1",
-    "subTitle": "ST1"
+    "data": {
+        "title": "T1",
+        "subTitle": "ST1"
+    }
 }
